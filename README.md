@@ -78,6 +78,18 @@ return, and its reports say "Not a BIR-registered book of accounts."
 
 ![Settings](screenshots/settings-home.png)
 
+**Payroll run**: compute, review every line with its contributions and tax, then finalize. The rates here are made-up sample tables.
+
+![Payroll run](screenshots/payroll-run.png)
+
+**Door time clock**: staff type their employee number, and the server decides in or out.
+
+![Door time clock](screenshots/door-time-clock.png)
+
+**Clocked in**: the confirmation, with a few seconds to undo a wrong tap.
+
+![Clocked in](screenshots/door-time-clock-punched.png)
+
 **Premiums multiply, they don't add**: night overtime at 150 an hour is 150 × 1.25 × 1.10 = 206.25, not 150 × 1.35 = 202.50.
 
 ![Premiums multiply](screenshots/premiums-math.png)
@@ -106,7 +118,7 @@ return, and its reports say "Not a BIR-registered book of accounts."
 
 ![Shifts](screenshots/shifts.png)
 
-**Payslip**: hours × rate on every earning, statutory deductions, loans, and a company-arranged layout.
+**Payslip**: hours × rate on every earning, statutory deductions (sample rates), year to date, and a company-arranged layout.
 
 ![Payslip](screenshots/payslip.png)
 
