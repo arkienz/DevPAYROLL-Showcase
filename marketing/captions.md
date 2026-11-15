@@ -41,6 +41,10 @@ TL: Ang staff mo, sila na ang bahala. Sariling sign-in gamit ang employee no., m
 EN: Every day shows how it went: on time, late, absent, rest day, holiday or leave, on one calendar. If a time log looks wrong, the employee asks HR to fix it, with a reason.
 TL: Bawat araw, kita kung ano ang nangyari: on time, late, absent, rest day, holiday o leave sa iisang calendar. Kung mali ang time log, hihingi ang empleyado ng ayos kay HR, may kasamang dahilan.
 
+### 09 Dashboard (`09-dashboard.png`)
+EN: See what needs you before payday. Today's figures first, then a numbered Needs you list (time logs to fix, requests, the run) and one button that names the next step: Create, Compute or Review. Each section follows the user's permissions.
+TL: Alamin ang kailangan mo bago ang sweldo. Una ang mga numero ngayon, kasunod ang numbered na Needs you list (time logs na aayusin, requests, ang run) at isang button na nagsasabi ng susunod na hakbang: Create, Compute o Review. Sumusunod ang bawat seksyon sa permissions ng user.
+
 ### 10 Sign-in screen (`10-sign-in.png`)
 EN: A sign-in screen that knows the hour. Sun through the blinds by day, a desk lamp at night, with your company's mark in the scene. Staff sign in with email, employees with an employee number.
 TL: Sign-in na alam ang oras. Araw sa bintana sa umaga, lampara sa gabi, kasama ang mark ng kumpanya mo. Email para sa staff, employee number para sa empleyado.
